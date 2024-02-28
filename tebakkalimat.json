@@ -1,0 +1,517 @@
+[
+  {
+    "index": 0,
+    "soal": "Bagai anak ... kehilangan induknya",
+    "jawaban": "ayam"
+  },
+  {
+    "index": 1,
+    "soal": "Bagai air di ... talas",
+    "jawaban": "Daun"
+  },
+  {
+    "index": 2,
+    "soal": "Hidup dikandung ... mati dikandung tanah",
+    "jawaban": "Adat"
+  },
+  {
+    "index": 3,
+    "soal": "Jauh di ... , dekat di hati",
+    "jawaban": "Mata"
+  },
+  {
+    "index": 4,
+    "soal": "Tak ada rotan ... pun jadi",
+    "jawaban": "Akar"
+  },
+  {
+    "index": 5,
+    "soal": "Utang emas boleh dibayar, Utang ... dibawa mati",
+    "jawaban": "Budi"
+  },
+  {
+    "index": 6,
+    "soal": "Ada udang dibalik ... ",
+    "jawaban": "Batu"
+  },
+  {
+    "index": 7,
+    "soal": "Ada ... ada semut",
+    "jawaban": "Gula"
+  },
+  {
+    "index": 8,
+    "soal": "Ada ... ada api",
+    "jawaban": "Asap"
+  },
+  {
+    "index": 9,
+    "soal": "Bagai ... dan langit",
+    "jawaban": "Bumi"
+  },
+  {
+    "index": 10,
+    "soal": "Daripada hujan ... di negeri orang, lebih baik hujan batu di negeri sendiri",
+    "jawaban": "Emas"
+  },
+  {
+    "index": 11,
+    "soal": "Dikasih ... minta jantung",
+    "jawaban": "Hati"
+  },
+  {
+    "index": 12,
+    "soal": " ... lubang tutup lubang",
+    "jawaban": "Gali"
+  },
+  {
+    "index": 13,
+    "soal": "Hangat hangat ... ayam",
+    "jawaban": "Tahi"
+  },
+  {
+    "index": 14,
+    "soal": "Hemat pangkal ... , rajin pangkal pandai",
+    "jawaban": "Kaya"
+  },
+  {
+    "index": 15,
+    "soal": " ... bertanya sesat dijalan",
+    "jawaban": "Malu"
+  },
+  {
+    "index": 16,
+    "soal": " ... sudah menjadi bubur",
+    "jawaban": "Nasi"
+  },
+  {
+    "index": 17,
+    "soal": "Pucuk dicinta ... pun tiba",
+    "jawaban": "Ulam"
+  },
+  {
+    "index": 18,
+    "soal": "Seperti ilmu ... makin berisi makin merunduk",
+    "jawaban": "Padi"
+  },
+  {
+    "index": 19,
+    "soal": "Tong ... nyaring bunyinya",
+    "jawaban": "Kosong"
+  },
+  {
+    "index": 20,
+    "soal": "Senjata makan ... ",
+    "jawaban": "Tuan"
+  },
+  {
+    "index": 21,
+    "soal": "Tak ada gading ... tak retak",
+    "jawaban": "Yang"
+  },
+  {
+    "index": 22,
+    "soal": "Tak ada rotan, akar pun ... ",
+    "jawaban": "Jadi"
+  },
+  {
+    "index": 23,
+    "soal": "Tuntutlah ... hingga ke negeri Cina",
+    "jawaban": "Ilmu"
+  },
+  {
+    "index": 24,
+    "soal": "Tak ada ... akar pun jadi",
+    "jawaban": "Rotan"
+  },
+  {
+    "index": 25,
+    "soal": "Besar ... daripada tiang",
+    "jawaban": "Pasak"
+  },
+  {
+    "index": 26,
+    "soal": "Jauh di mata ... di hati",
+    "jawaban": "Dekat"
+  },
+  {
+    "index": 27,
+    "soal": "Sepandai-pandainya ... melompat, sekali waktu jatuh juga",
+    "jawaban": "Tupai"
+  },
+  {
+    "index": 28,
+    "soal": "Hancur ... dikandung tanah, budi baik dikenang juga",
+    "jawaban": "Badan"
+  },
+  {
+    "index": 29,
+    "soal": "Bersatu kita ... , bercerai kita runtuh",
+    "jawaban": "Teguh"
+  },
+  {
+    "index": 30,
+    "soal": "Besar pasak daripada ... ",
+    "jawaban": "Tiang"
+  },
+  {
+    "index": 31,
+    "soal": "Habis manis ... dibuang",
+    "jawaban": "Sepah"
+  },
+  {
+    "index": 32,
+    "soal": "Hemat pangkal kaya, ... pangkal pandai",
+    "jawaban": "Rajin"
+  },
+  {
+    "index": 33,
+    "soal": "Hidup ... mati tak hendak/mau",
+    "jawaban": "Segan"
+  },
+  {
+    "index": 34,
+    "soal": "Karena nila setitik, ... susu sebelanga",
+    "jawaban": "Rusak"
+  },
+  {
+    "index": 35,
+    "soal": "Lain ladang lain belalang, lain ... lain ikannya",
+    "jawaban": "Lubuk"
+  },
+  {
+    "index": 36,
+    "soal": "Menjilat ... sendiri",
+    "jawaban": "Ludah"
+  },
+  {
+    "index": 37,
+    "soal": "Memancing di air ... ",
+    "jawaban": "Keruh"
+  },
+  {
+    "index": 38,
+    "soal": " ...  makan tanaman",
+    "jawaban": "Pagar"
+  },
+  {
+    "index": 39,
+    "soal": "Seperti kuda ... dari pinggitan",
+    "jawaban": "Lepas"
+  },
+  {
+    "index": 40,
+    "soal": "Air beriak tanda tak ... ",
+    "jawaban": "Dalam"
+  },
+  {
+    "index": 41,
+    "soal": "Ayam berkokok hari ... ",
+    "jawaban": "Siang"
+  },
+  {
+    "index": 42,
+    "soal": "Bagai air di daun ... ",
+    "jawaban": "Talas"
+  },
+  {
+    "index": 43,
+    "soal": "Bagai ... dalam tempurung",
+    "jawaban": "Katak"
+  },
+  {
+    "index": 44,
+    "soal": "Di mana bumi di ... disitu langit dijunjung",
+    "jawaban": "Pijak"
+  },
+  {
+    "index": 45,
+    "soal": "Guru kencing berdiri, ... kencing berlari",
+    "jawaban": "Murid"
+  },
+  {
+    "index": 46,
+    "soal": "Kecil-kecil cabai ... ",
+    "jawaban": "Rawit"
+  },
+  {
+    "index": 47,
+    "soal": "Sudah ... tertimpa tangga",
+    "jawaban": "Jatuh"
+  },
+  {
+    "index": 48,
+    "soal": "Sambil menyelam ... air",
+    "jawaban": "Minum"
+  },
+  {
+    "index": 49,
+    "soal": "Seperti ayam kehilangan ... ",
+    "jawaban": "Induk"
+  },
+  {
+    "index": 50,
+    "soal": "Sedia payung sebelum ... ",
+    "jawaban": "Hujan"
+  },
+  {
+    "index": 51,
+    "soal": "Sedikit demi sedikit lama-lama menjadi ... ",
+    "jawaban": "Bukit"
+  },
+  {
+    "index": 52,
+    "soal": " ... mati dilumbung padi",
+    "jawaban": "Tikus"
+  },
+  {
+    "index": 53,
+    "soal": " ...  ke bawah tumpul ke atas",
+    "jawaban": "Tajam"
+  },
+  {
+    "index": 54,
+    "soal": " ...  adalah uang",
+    "jawaban": "Waktu"
+  },
+  {
+    "index": 55,
+    "soal": "Badai ... berlalu",
+    "jawaban": "Pasti"
+  },
+  {
+    "index": 56,
+    "soal": " ...  dalam selimut",
+    "jawaban": "Musuh"
+  },
+  {
+    "index": 57,
+    "soal": "Umur setahun jagung, ... setapuk pinang",
+    "jawaban": "Darah"
+  },
+  {
+    "index": 58,
+    "soal": "Bagaikan ... dalam sangkar",
+    "jawaban": "Burung"
+  },
+  {
+    "index": 59,
+    "soal": "Ada uang ada ... ",
+    "jawaban": "Barang"
+  },
+  {
+    "index": 60,
+    "soal": "Air ... tanda tak dalam",
+    "jawaban": "Beriak"
+  },
+  {
+    "index": 61,
+    "soal": "Bagai ... dibelah dua",
+    "jawaban": "Pinang"
+  },
+  {
+    "index": 62,
+    "soal": "Diam ... bahasa",
+    "jawaban": "Seribu"
+  },
+  {
+    "index": 63,
+    "soal": "Harimau mati meninggalkan ... , gajah mati meninggalkan gading",
+    "jawaban": "Belang"
+  },
+  {
+    "index": 64,
+    "soal": " ... lupa akan kulitnya",
+    "jawaban": "Kacang"
+  },
+  {
+    "index": 65,
+    "soal": " ... batu sembunyi tangan",
+    "jawaban": "Lempar"
+  },
+  {
+    "index": 66,
+    "soal": "Air ... menghanyutkan",
+    "jawaban": "Tenang"
+  },
+  {
+    "index": 67,
+    "soal": "Datang tak dijemput ... tidak diantar",
+    "jawaban": "Pulang"
+  },
+  {
+    "index": 68,
+    "soal": "Dari ... yang jernih tak akan mengalir air yang keruh",
+    "jawaban": "Telaga"
+  },
+  {
+    "index": 69,
+    "soal": " ...  badan dikandung tanah budi baik terkenang juga",
+    "jawaban": "Hancur"
+  },
+  {
+    "index": 70,
+    "soal": " ...  batu sembunyi tangan",
+    "jawaban": "Lempar"
+  },
+  {
+    "index": 71,
+    "soal": " ...  berbulu ayam",
+    "jawaban": "Musang"
+  },
+  {
+    "index": 72,
+    "soal": "Tak ada ... yang tak retak",
+    "jawaban": "Gading"
+  },
+  {
+    "index": 73,
+    "soal": "Tua-tua ... makin tua makin menjadi",
+    "jawaban": "Keladi"
+  },
+  {
+    "index": 74,
+    "soal": "Berat sama ... , ringan sama dijinjing",
+    "jawaban": "Dipikul"
+  },
+  {
+    "index": 75,
+    "soal": "Bagai ... merindukan bulan",
+    "jawaban": "Pungguk"
+  },
+  {
+    "index": 76,
+    "soal": "Air susu ... dengan air tuba",
+    "jawaban": "Dibalas"
+  },
+  {
+    "index": 77,
+    "soal": "Bagai burung dalam ... ",
+    "jawaban": "Sangkar"
+  },
+  {
+    "index": 78,
+    "soal": "Berguru kepalang ajar seperti bunga ... tak jadi",
+    "jawaban": "Kembang"
+  },
+  {
+    "index": 79,
+    "soal": "Anjing menggonggong kafilah ... ",
+    "jawaban": "Berlalu"
+  },
+  {
+    "index": 80,
+    "soal": "Dunia tak ... daun kelor",
+    "jawaban": "Selebar"
+  },
+  {
+    "index": 81,
+    "soal": "Gajah di ... mata tak tampat, semut diseberang lautan tampak",
+    "jawaban": "Pelupuk"
+  },
+  {
+    "index": 82,
+    "soal": "Gajah mati meninggalkan gading, ... mati meninggalkan belang",
+    "jawaban": "Harimau"
+  },
+  {
+    "index": 83,
+    "soal": "Menepuk air di dulang, terpercik muka ... ",
+    "jawaban": "Sendiri"
+  },
+  {
+    "index": 84,
+    "soal": "Seperti pinang ... dua",
+    "jawaban": "Dibelah"
+  },
+  {
+    "index": 85,
+    "soal": "Bagai air di ... talas",
+    "jawaban": "Daun"
+  },
+  {
+    "index": 86,
+    "soal": "Dari semak ke ... ",
+    "jawaban": "Belukar"
+  },
+  {
+    "index": 87,
+    "soal": "Daripada hidup bercermin ... , lebih baik mati berkalang tanah",
+    "jawaban": "Bangkai"
+  },
+  {
+    "index": 88,
+    "soal": "Habis ... sepah dibuang",
+    "jawaban": "Manis"
+  },
+  {
+    "index": 89,
+    "soal": "Jauh di ... , dekat di hati",
+    "jawaban": "Mata"
+  },
+  {
+    "index": 90,
+    "soal": "Maksud hati ... gunung, apa daya tangan tak sampai",
+    "jawaban": "Memeluk"
+  },
+  {
+    "index": 91,
+    "soal": "Malu ... sesat di jalan",
+    "jawaban": "Bertanya"
+  },
+  {
+    "index": 92,
+    "soal": "Sambil ... minum air",
+    "jawaban": "Menyelam"
+  },
+  {
+    "index": 93,
+    "soal": "Ada uang abang di ... , tak ada uang abang melayang",
+    "jawaban": "Sayang"
+  },
+  {
+    "index": 94,
+    "soal": "Air susu dibalas dengan ... ",
+    "jawaban": "Air tuba"
+  },
+  {
+    "index": 95,
+    "soal": "Kacang lupa akan ... ",
+    "jawaban": "Kulitnya"
+  },
+  {
+    "index": 96,
+    "soal": " ...  air ludah",
+    "jawaban": "Menjilat"
+  },
+  {
+    "index": 97,
+    "soal": " ...  berburu/berbulu domba",
+    "jawaban": "Serigala"
+  },
+  {
+    "index": 98,
+    "soal": "Lidah tak ... ",
+    "jawaban": "Bertulang"
+  },
+  {
+    "index": 99,
+    "soal": "Selama hayat masih di ... badan",
+    "jawaban": "Kandung"
+  },
+  {
+    "index": 100,
+    "soal": "Jangan ... di air keruh",
+    "jawaban": "Bercermin"
+  },
+  {
+    "index": 101,
+    "soal": "Selama janur kuning belum ... , maka aku akan selalu mengejarmu demi mendapatkan cintamu",
+    "jawaban": "Melengkung"
+  },
+  {
+    "index": 102,
+    "soal": "Bagai makan ... simalakama",
+    "jawaban": "Buah"
+  }
+]
